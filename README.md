@@ -1,6 +1,6 @@
-# ECE160 - HW#3-4
+# ECE160 - HW#4-5
 
-Due 10/15/21 at 11:59PM.  
+Due 10/15/22 at 11:59PM.  
 Late submissions are subject to a 20% late penalty.
 
 ## Reading
@@ -8,7 +8,6 @@ The C Programming Language, 2nd Edition - Kerninghan & Ritchie
 Chapter 1.10, 4.3-4.11
 
 ## Instructions
-
 You may work individually or in a pair for all assignments. If you do so, make sure that each member of the pair submits an answer to at least 1 question.
 
 For each question, you will be submitting the homework via Github pull requests, just like how the industry submits code for review. 
